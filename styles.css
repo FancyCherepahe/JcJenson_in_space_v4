@@ -127,6 +127,10 @@ main{
     flex-direction: row;
     position: relative;
 }
+.easter_egg{
+    color:rgb(0, 0, 0);
+    text-align: end;
+}
 .drone_description{
     font-size: 20px;
     color: white;
